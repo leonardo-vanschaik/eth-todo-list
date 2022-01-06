@@ -1,6 +1,10 @@
 # Ethereum Todo List
 
-Built a todo app on the blockchain with Etherium smart contracts using the Solidity programming language.
+Built a simple todo app on the blockchain with Etherium smart contracts using the Solidity programming language.
+
+# Tools
+• Ganache - Truffle Suite
+• MetaMask
 
 
 # Preview
