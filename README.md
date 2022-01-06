@@ -4,6 +4,7 @@ Built a simple todo app on the blockchain with Etherium smart contracts using th
 
 # Tools
 • Ganache - Truffle Suite
+
 • MetaMask
 
 
